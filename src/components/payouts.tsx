@@ -40,7 +40,7 @@ const Payouts = () => {
                     Payouts
                 </span>
                 <h2 className="mt-3 text-3xl font-bold sm:text-4xl bg-gradient-to-r from-purple-300 to-fuchsia-400 bg-clip-text text-transparent">
-                    We've Paid Out Over $1M to Traders
+                    <h2>We have Paid Out Over $1M to Traders</h2>
                 </h2>
                 <p className="mt-2 text-gray-300">
                     Your Trust is Our Fuel — Power Up with Abcd

@@ -1,4 +1,4 @@
-import PlanCard, { type Plan } from '@/components/planningCardLayout';
+import PlanCard from '@/components/planningCardLayout';
 import planningCard from "@/components/data/planningcard.json";
 
 const Pricing = () => {
